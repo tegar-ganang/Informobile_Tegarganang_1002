@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">movie</string>
+    <string name="app_name">Movie App</string>
+    <string name="trending">Trending</string>
+    <string name="romance">Romance</string>
+    <string name="button_buy_ticket">Buy Ticket</string>
 </resources>
